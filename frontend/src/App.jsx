@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import './App.css';
 
-const BACKEND_URL = 'https://your-backend-render-url.onrender.com'; // Replace after deploying backend
+const BACKEND_URL = 'https://two0260602-render-full-stack-chatgpt.onrender.com'; // Replace after deploying backend
 
 function App() {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
